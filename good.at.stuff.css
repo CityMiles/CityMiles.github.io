@@ -1,0 +1,28 @@
+nav a:hover {color: ;}
+h1 {color: #b8e0b9;}
+h2 {color: #b8e0b9; background-color: ;}
+h3 {color: ;}
+p {color: ;}
+body {color: grey;}
+
+a {color: ;}
+nav {color: ;}
+header {color: #b8e0b9;}
+footer {color: #98ba99;}
+
+#goodmegan {
+  padding: 5px;
+  border: 1px solid LightGray;
+  opacity: 1
+}
+
+.musicbanner {width: 900px;}
+
+#ipsotable {background-color: ; background-image: ;}
+
+#footfoot {background-color: WhiteSmoke}
+
+...example... .centered-table {
+                margin-left: auto;
+                margin-right: auto;
+                }
