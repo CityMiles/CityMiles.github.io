@@ -2,4 +2,4 @@
 
 Please check it out and stay tuned for updates in the coming weeks >> <a href="https://citymiles.github.io/portfolio/index.html">CityMiles Portfolio</a>
 
-*'... keep calm, keep coding!'*
+*'hope for calm seas ... but build a strong boat.'*
