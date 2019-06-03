@@ -1,7 +1,9 @@
+
 nav a:hover {color: ;}
 h1 {color: #b8e0b9;}
 h2 {color: #b8e0b9; background-color: ;}
-h3 {color: ;}
+h3 {color: #98ba99;}
+h6 {font-style: italic;}
 p {color: ;}
 body {color: grey;}
 
@@ -10,19 +12,98 @@ nav {color: ;}
 header {color: #b8e0b9;}
 footer {color: #98ba99;}
 
+#footfoot {background-color: WhiteSmoke}
+
+#ipsotable {background-color: ; background-image: ;}
+
 #goodmegan {
   padding: 5px;
   border: 1px solid LightGray;
   opacity: 1
 }
 
+#inputArea {
+    padding: 20px;
+    font-style: italic;
+}
+
+#input {
+    padding: 5px;
+    font-style: italic;
+    color: Gray;
+}
+
+
 .musicbanner {width: 900px;}
-
-#ipsotable {background-color: ; background-image: ;}
-
-#footfoot {background-color: WhiteSmoke}
 
 ...example... .centered-table {
                 margin-left: auto;
                 margin-right: auto;
                 }
+
+
+/*
+
+body {
+    text-align: center;
+    border-width: 10px;
+    border-style: double;
+    border-color: grey;
+    padding: 20px;
+    background-color: #f2f2f2;
+    margin:20px;
+}
+
+button {
+    cursor: pointer;
+    background-color: pink;
+    border-radius: 15px;
+    width: 60px;
+    height: 18px;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+h1 {
+    color: pink;
+}
+
+h4 {
+    color: pink;
+    font-size: 20px;
+}
+
+html {
+    background-color: white;
+}
+
+img {
+    border-width: 3px;
+    border-style: solid;
+    border-color: pink;
+}
+
+#outputArea {
+    text-align: center;
+    width:200px;
+    height:75px;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: grey;
+}
+
+#tranBtn {
+    width: 75px;
+    height: 18px;
+}
+
+@keyframes example {
+    0% {background-color: pink;}
+    50% {background-color: white;}
+    100% {background-color: pink;}
+}
+
+*/
