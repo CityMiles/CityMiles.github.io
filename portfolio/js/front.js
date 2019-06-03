@@ -2,7 +2,7 @@
 
 
 resume = () => {
-    alert(comingSoon)
+    return alert(comingSoon)
 }
 
 var comingSoon = "\nOh hello there! \n\nI appreciate your interest my resume. I'm currently knee-deep in ongoing projects, but would love to discuss your ideas... \n\n Please contact me below!"
