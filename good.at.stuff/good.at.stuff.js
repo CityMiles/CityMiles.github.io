@@ -7,7 +7,7 @@ buttonPress = () => {
 }
 
 breakingStory = (string) => {
-    return `Happy Friday! Just another awesome day in ${string}. =)`
+    return `Happy Monday! Just another awesome day in ${string}. =)`
 }
 
 dispRules = () => {
